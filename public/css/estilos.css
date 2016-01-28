@@ -1,0 +1,12 @@
+.bartitulo{
+	height:45px;
+	position:absolute;
+	color:white;
+	padding-left:245px;
+	padding-top:10px;
+	width:100%;
+	text-align:right;
+}
+.conteudo{
+	margin-top:30px;
+}
